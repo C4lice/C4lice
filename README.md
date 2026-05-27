@@ -15,7 +15,7 @@
 # ✦ Calice ✦
 ### 🎮 Game Developer · 🌌 Espace & Sci-Fi · ⚔️ Fantasy · 🌃 Cyberpunk
 
-[![C4lice](https://github.com/C4lice)
+[![C4lice](https://github.com/C4lice)]
 
 </div>
 
@@ -107,7 +107,9 @@ Je mêle programmation, art numérique et narration pour construire des expérie
 > *Section en construction — les mondes se construisent lentement.* 🪐
 
 ```
-[![***Mes Mondes actuelles***](https://github.com/C4lice?tab=repositories)]
+[ PROJET 01 Holberton ] ── En développement...
+[ PROJET 02 Holberton ] ── En développement...
+
 ```
 
 ---
