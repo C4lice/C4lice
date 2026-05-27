@@ -15,7 +15,7 @@
 # ✦ Calice ✦
 ### 🎮 Game Developer · 🌌 Espace & Sci-Fi · ⚔️ Fantasy · 🌃 Cyberpunk
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Game+Developer+%7C+Artist+%7C+World+Builder;Unity+%2B+C%23+Stack;Entre+les+étoiles+et+les+pixels...;Building+worlds%2C+one+line+at+a+time.)](https://git.io/typing-svg)
+[![C4lice](https://github.com/C4lice)]
 
 </div>
 
