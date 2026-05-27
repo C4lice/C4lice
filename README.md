@@ -15,7 +15,7 @@
 # ✦ Calice ✦
 ### 🎮 Game Developer · 🌌 Espace & Sci-Fi · ⚔️ Fantasy · 🌃 Cyberpunk
 
-[![C4lice](https://github.com/C4lice)]
+[![C4lice](https://github.com/C4lice)
 
 </div>
 
@@ -114,7 +114,7 @@ Je mêle programmation, art numérique et narration pour construire des expérie
 
 ## 📡 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_PROFIL)
+[![LinkedIn](https://www.linkedin.com/in/laura-aupetit-53aa622ba/)
 
 ---
 
