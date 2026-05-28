@@ -15,7 +15,7 @@
 # ✦ Calice ✦
 ### 🎮 Game Developer · 🌌 Espace & Sci-Fi · ⚔️ Fantasy · 🌃 Cyberpunk
 
-[![C4lice](https://github.com/C4lice)]
+[![C4lice]()]
 
 </div>
 
