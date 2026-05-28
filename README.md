@@ -116,7 +116,7 @@ Je mêle programmation, art numérique et narration pour construire des expérie
 
 ## 📡 Me contacter
 
-[![LinkedIn](https://www.linkedin.com/in/laura-aupetit-53aa622ba/)
+![Mon LinkedIn](https://www.linkedin.com/in/laura-aupetit-53aa622ba/)
 
 ---
 
